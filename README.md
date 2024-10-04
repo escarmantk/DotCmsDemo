@@ -33,6 +33,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 #Focal points
 Travel Blog. 
+
   On this tab you will find the travel blog and a link to a blog item. 
+  
 extra credit.
+
   on this page you will find attempts at the extra credit components
